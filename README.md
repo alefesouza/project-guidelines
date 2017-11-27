@@ -44,7 +44,7 @@ I always use English on commit messages and code comments, I also try to create 
 
 I also like to use the GitLab CI if I need to use GitLab and use Docker on every project.
 
-## <a name="front-workflow"></a> Front-end Workflow
+## <a name="frontend-workflow"></a> Front-end Workflow
 
 For my front-end workflow I like to use [Gulp](https://github.com/gulpjs/gulp) as my task runner, using it to run [TypeScript](https://github.com/Microsoft/TypeScript) and [Sass](https://github.com/sass/sass) tasks, to minify the generated JavaScript and CSS, and bundle it with the project front-end dependencies.
 
