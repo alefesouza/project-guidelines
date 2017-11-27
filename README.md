@@ -6,6 +6,7 @@ Maybe you check my GitHub and don't find some of them, that's because the code h
 
 - [Knowledge](#knowledge)
 - [Git](#git)
+- [Front-end Workflow](#frontend-workflow)
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [C#](#csharp)
@@ -15,7 +16,7 @@ Maybe you check my GitHub and don't find some of them, that's because the code h
 
 ## <a name="knowledge"></a> Knowledge
 
-I have good knowledge in JavaScript, PHP, C# and Java, it's the programming languages that I spent more time studying, having more than two years of experience with each of them, if you check my GitHub repository, you can notice that I studied a lot each of them in certain parts of my life, more when I was on highschool.
+I have good knowledge in JavaScript, PHP, C# and Java, it's the programming languages that I spent more time studying, having more than two years of experience with each of them, if you check my GitHub profile, you can notice that I studied a lot each of them in certain parts of my life, more when I was on highschool.
 
 ## <a name="git"></a> Git
 
@@ -43,11 +44,17 @@ I always use English on commit messages and code comments, I also try to create 
 
 I also like to use the GitLab CI if I need to use GitLab and use Docker on every project.
 
+## <a name="front-workflow"></a> Front-end Workflow
+
+For my front-end workflow I like to use [Gulp](https://github.com/gulpjs/gulp) as my task runner, using it to run [TypeScript](https://github.com/Microsoft/TypeScript) and [Sass](https://github.com/sass/sass) tasks, to minify the generated JavaScript and CSS, and bundle it with the project front-end dependencies.
+
 ## <a name="javascript"></a> JavaScript
 
 On JavaScript, I really like to follow the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript), I also like to code on other languages based on C, so I don't care about always use the semicolon.
 
 I also prefer to use TypeScript, since I spent some years using Java and C#, I really like types.
+
+Since I really love JavaScript (it was my first programming language, I started to code using it when I was 13), I always try to use the latest features, so it's common to me use a lot of ES6 features, like filter, map, reduce, and even use async await where I can, maybe because I really liked it on C#.
 
 ### Angular and AngularJS
 
