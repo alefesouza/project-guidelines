@@ -7,6 +7,7 @@ Maybe you check my GitHub and don't find some of them, that's because the code h
 - [Knowledge](#knowledge)
 - [Git](#git)
 - [Front-end Workflow](#frontend-workflow)
+- [Design](#design)
 - [JavaScript](#javascript)
 - [PHP](#php)
 - [C#](#csharp)
@@ -48,13 +49,17 @@ I also like to use the GitLab CI if I need to use GitLab and use Docker on every
 
 For my front-end workflow I like to use [Gulp](https://github.com/gulpjs/gulp) as my task runner, using it to run [TypeScript](https://github.com/Microsoft/TypeScript) and [Sass](https://github.com/sass/sass) tasks, to minify the generated JavaScript and CSS, and bundle it with the project front-end dependencies.
 
+## <a name="design"></a> Design
+
+I like the [Material Design](https://material.io/guidelines) a lot, I always follow its guidelines when there's no design specification.
+
 ## <a name="javascript"></a> JavaScript
 
-On JavaScript, I really like to follow the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript), I also like to code on other languages based on C, so I don't care about always use the semicolon.
+On JavaScript, I really like to follow the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript), I also like to code using other languages based on C, so I don't care about always use the semicolons.
 
 I also prefer to use TypeScript, since I spent some years using Java and C#, I really like types.
 
-Since I really love JavaScript (it was my first programming language, I started to code using it when I was 13), I always try to use the latest features, so it's common to me use a lot of ES6 features, like filter, map, reduce, and even use async await where I can, maybe because I really liked it on C#.
+Since I really love JavaScript (it was my first programming language, I started to code using it when I was 13), I always try to use its latest features, so it's common to me to use a lot of ES6 features, like filter, map, reduce, and even use async await where I can, maybe because I really liked it on C#.
 
 ### Angular and AngularJS
 
@@ -70,7 +75,7 @@ On .NET applications like Xamarin, WPF and UWP projects I like to use [Prism](ht
 
 ## <a name="unit-testing"></a> Unit Testing
 
-I like to unit test almost all my projects, specially my job projects, just to have a good sleeping at night without thinking what if something goes wrong, the tools I like the most to use:
+I like to unit test almost all important projects, just to have a good sleeping at night without thinking what if something goes wrong, the tools I like the most to use:
 
 [PHPUnit](https://github.com/sebastianbergmann/phpunit) for PHP projects.
 
