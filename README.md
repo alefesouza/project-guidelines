@@ -21,7 +21,7 @@ I have good knowledge in JavaScript, PHP, C# and Java, it's the programming lang
 
 ### Commits
 
-When I commit on Git, I like to follow the [Angular Contribution Guidelines](https://github.com/angular/angular/blob/master/CONTRIBUTING.md), which is like:
+When I commit on Git, I like to follow the [Angular Commit Message Guidelines](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit), which is like:
 
 ```
 <type>(<scope>): <subject>
